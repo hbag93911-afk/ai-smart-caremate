@@ -1,0 +1,954 @@
+{
+  "timestamp": "2026-11-27T15:11:51.359987",
+  "total_videos": 26,
+  "playable_videos": 1,
+  "results": {
+    "스쿼트": [
+      {
+        "video_id": "zkjlJL-aADs",
+        "url": "https://www.youtube.com/watch?v=zkjlJL-aADs",
+        "embed_url": "https://www.youtube.com/embed/zkjlJL-aADs",
+        "timestamp": "2026-11-27T15:11:03.075297",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=zkjlJL-aADs",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "aClHKpqkqmQ",
+        "url": "https://www.youtube.com/watch?v=aClHKpqkqmQ",
+        "embed_url": "https://www.youtube.com/embed/aClHKpqkqmQ",
+        "timestamp": "2026-11-27T15:11:04.889381",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=aClHKpqkqmQ",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "xNR3hpx2eQw",
+        "url": "https://www.youtube.com/watch?v=xNR3hpx2eQw",
+        "embed_url": "https://www.youtube.com/embed/xNR3hpx2eQw",
+        "timestamp": "2026-11-27T15:11:06.670655",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=xNR3hpx2eQw",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "JAgBYcCauNI",
+        "url": "https://www.youtube.com/watch?v=JAgBYcCauNI",
+        "embed_url": "https://www.youtube.com/embed/JAgBYcCauNI",
+        "timestamp": "2026-11-27T15:11:08.430038",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=JAgBYcCauNI",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "걷기": [
+      {
+        "video_id": "7wAUmQVMFxY",
+        "url": "https://www.youtube.com/watch?v=7wAUmQVMFxY",
+        "embed_url": "https://www.youtube.com/embed/7wAUmQVMFxY",
+        "timestamp": "2026-11-27T15:11:10.206386",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=7wAUmQVMFxY",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "oD6X0ysX0bA",
+        "url": "https://www.youtube.com/watch?v=oD6X0ysX0bA",
+        "embed_url": "https://www.youtube.com/embed/oD6X0ysX0bA",
+        "timestamp": "2026-11-27T15:11:13.013470",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=oD6X0ysX0bA",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "yGh7Hxgk-70",
+        "url": "https://www.youtube.com/watch?v=yGh7Hxgk-70",
+        "embed_url": "https://www.youtube.com/embed/yGh7Hxgk-70",
+        "timestamp": "2026-11-27T15:11:15.046143",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=yGh7Hxgk-70",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "산책": [
+      {
+        "video_id": "Zz_rXjVJqbU",
+        "url": "https://www.youtube.com/watch?v=Zz_rXjVJqbU",
+        "embed_url": "https://www.youtube.com/embed/Zz_rXjVJqbU",
+        "timestamp": "2026-11-27T15:11:16.802602",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=Zz_rXjVJqbU",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "스트레칭": [
+      {
+        "video_id": "l_7zw2swSnk",
+        "url": "https://www.youtube.com/watch?v=l_7zw2swSnk",
+        "embed_url": "https://www.youtube.com/embed/l_7zw2swSnk",
+        "timestamp": "2026-11-27T15:11:18.584503",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=l_7zw2swSnk",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "1LvjYbPqMfQ",
+        "url": "https://www.youtube.com/watch?v=1LvjYbPqMfQ",
+        "embed_url": "https://www.youtube.com/embed/1LvjYbPqMfQ",
+        "timestamp": "2026-11-27T15:11:20.332653",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=1LvjYbPqMfQ",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "g-5bLrGcHmo",
+        "url": "https://www.youtube.com/watch?v=g-5bLrGcHmo",
+        "embed_url": "https://www.youtube.com/embed/g-5bLrGcHmo",
+        "timestamp": "2026-11-27T15:11:22.107856",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=g-5bLrGcHmo",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "팔 굽혀펴기": [
+      {
+        "video_id": "IODxDxX7oi4",
+        "url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+        "embed_url": "https://www.youtube.com/embed/IODxDxX7oi4",
+        "timestamp": "2026-11-27T15:11:23.878366",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✓",
+            "accessible": true,
+            "title": "The Perfect Push Up | Do it right!",
+            "author_name": "Calisthenicmovement",
+            "thumbnail_url": "https://i.ytimg.com/vi/IODxDxX7oi4/hqdefault.jpg"
+          },
+          "thumbnail": {
+            "status": "✓",
+            "accessible": true,
+            "url": "https://i.ytimg.com/vi/IODxDxX7oi4/hqdefault.jpg"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✓",
+            "accessible": true,
+            "data": {
+              "width": 200,
+              "author_name": "Calisthenicmovement",
+              "thumbnail_height": 360,
+              "version": "1.0",
+              "height": 113,
+              "html": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/IODxDxX7oi4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"The Perfect Push Up | Do it right!\"></iframe>",
+              "provider_url": "https://www.youtube.com/",
+              "thumbnail_url": "https://i.ytimg.com/vi/IODxDxX7oi4/hqdefault.jpg",
+              "provider_name": "YouTube",
+              "author_url": "https://www.youtube.com/@calimove",
+              "type": "video",
+              "title": "The Perfect Push Up | Do it right!",
+              "url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+              "thumbnail_width": 480
+            }
+          }
+        },
+        "playable": true
+      },
+      {
+        "video_id": "xsf6nxBg6Ng",
+        "url": "https://www.youtube.com/watch?v=xsf6nxBg6Ng",
+        "embed_url": "https://www.youtube.com/embed/xsf6nxBg6Ng",
+        "timestamp": "2026-11-27T15:11:25.710676",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=xsf6nxBg6Ng",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "GS4EZ1J2eGc",
+        "url": "https://www.youtube.com/watch?v=GS4EZ1J2eGc",
+        "embed_url": "https://www.youtube.com/embed/GS4EZ1J2eGc",
+        "timestamp": "2026-11-27T15:11:27.473508",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=GS4EZ1J2eGc",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "플랭크": [
+      {
+        "video_id": "XVNHlPmJcKg",
+        "url": "https://www.youtube.com/watch?v=XVNHlPmJcKg",
+        "embed_url": "https://www.youtube.com/embed/XVNHlPmJcKg",
+        "timestamp": "2026-11-27T15:11:29.283193",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=XVNHlPmJcKg",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "jRLTdUVH6II",
+        "url": "https://www.youtube.com/watch?v=jRLTdUVH6II",
+        "embed_url": "https://www.youtube.com/embed/jRLTdUVH6II",
+        "timestamp": "2026-11-27T15:11:30.960538",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=jRLTdUVH6II",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "F9GfzDOhZvw",
+        "url": "https://www.youtube.com/watch?v=F9GfzDOhZvw",
+        "embed_url": "https://www.youtube.com/embed/F9GfzDOhZvw",
+        "timestamp": "2026-11-27T15:11:33.056864",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=F9GfzDOhZvw",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "런지": [
+      {
+        "video_id": "QOVaHcNveoU",
+        "url": "https://www.youtube.com/watch?v=QOVaHcNveoU",
+        "embed_url": "https://www.youtube.com/embed/QOVaHcNveoU",
+        "timestamp": "2026-11-27T15:11:34.842039",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=QOVaHcNveoU",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "s40_cQnZxDw",
+        "url": "https://www.youtube.com/watch?v=s40_cQnZxDw",
+        "embed_url": "https://www.youtube.com/embed/s40_cQnZxDw",
+        "timestamp": "2026-11-27T15:11:36.600594",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=s40_cQnZxDw",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "홈트레이닝": [
+      {
+        "video_id": "tYzlqKqPLM4",
+        "url": "https://www.youtube.com/watch?v=tYzlqKqPLM4",
+        "embed_url": "https://www.youtube.com/embed/tYzlqKqPLM4",
+        "timestamp": "2026-11-27T15:11:38.355856",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=tYzlqKqPLM4",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "ViKvQy_wqgg",
+        "url": "https://www.youtube.com/watch?v=ViKvQy_wqgg",
+        "embed_url": "https://www.youtube.com/embed/ViKvQy_wqgg",
+        "timestamp": "2026-11-27T15:11:40.482166",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=ViKvQy_wqgg",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "ml4jVuY9NeE",
+        "url": "https://www.youtube.com/watch?v=ml4jVuY9NeE",
+        "embed_url": "https://www.youtube.com/embed/ml4jVuY9NeE",
+        "timestamp": "2026-11-27T15:11:42.283809",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=ml4jVuY9NeE",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "요가": [
+      {
+        "video_id": "V3dHNAT78RE",
+        "url": "https://www.youtube.com/watch?v=V3dHNAT78RE",
+        "embed_url": "https://www.youtube.com/embed/V3dHNAT78RE",
+        "timestamp": "2026-11-27T15:11:44.056022",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=V3dHNAT78RE",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "MKXScXx0HqA",
+        "url": "https://www.youtube.com/watch?v=MKXScXx0HqA",
+        "embed_url": "https://www.youtube.com/embed/MKXScXx0HqA",
+        "timestamp": "2026-11-27T15:11:45.837371",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=MKXScXx0HqA",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ],
+    "근력 운동": [
+      {
+        "video_id": "jM92E7YX5GA",
+        "url": "https://www.youtube.com/watch?v=jM92E7YX5GA",
+        "embed_url": "https://www.youtube.com/embed/jM92E7YX5GA",
+        "timestamp": "2026-11-27T15:11:47.673378",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=jM92E7YX5GA",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      },
+      {
+        "video_id": "jnHaH6i_0NQ",
+        "url": "https://www.youtube.com/watch?v=jnHaH6i_0NQ",
+        "embed_url": "https://www.youtube.com/embed/jnHaH6i_0NQ",
+        "timestamp": "2026-11-27T15:11:49.445031",
+        "tests": {
+          "page_access": {
+            "status": "✓",
+            "status_code": 200,
+            "url": "https://www.youtube.com/watch?v=jnHaH6i_0NQ",
+            "accessible": true
+          },
+          "oembed": {
+            "status": "✗",
+            "accessible": false,
+            "error": "Video not found (404)"
+          },
+          "thumbnail": {
+            "status": "✗",
+            "accessible": false,
+            "error": "No accessible thumbnail found"
+          },
+          "embed": {
+            "status": "✓",
+            "status_code": 200,
+            "accessible": true
+          },
+          "oembed_full": {
+            "status": "✗",
+            "accessible": false,
+            "error": "404 Not Found"
+          }
+        },
+        "playable": false
+      }
+    ]
+  }
+}

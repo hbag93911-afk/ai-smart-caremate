@@ -1,0 +1,147 @@
+"""
+직접 HTML 파일로 YouTube iframe 임베드 테스트
+"""
+
+html_content = """
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Embed Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .video-container {
+            background-color: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .video-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        .video-id {
+            font-size: 12px;
+            color: #666;
+            margin-bottom: 10px;
+            font-family: monospace;
+        }
+        .iframe-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            border-radius: 4px;
+        }
+        .iframe-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 2px solid #ff0000;
+            padding-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>YouTube Embed 임베드 테스트</h1>
+    <p>아래의 비디오들이 재생되면 YouTube iframe 임베드가 정상 작동하는 것입니다.</p>
+    
+    <div class="video-container">
+        <div class="video-title">스쿼트 초보자 가이드</div>
+        <div class="video-id">Video ID: ZWUBHd6ysMU</div>
+        <div class="iframe-container">
+            <iframe src="https://www.youtube.com/embed/ZWUBHd6ysMU" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    
+    <div class="video-container">
+        <div class="video-title">스쿼트 완벽 가이드</div>
+        <div class="video-id">Video ID: aclHkTpjA4s</div>
+        <div class="iframe-container">
+            <iframe src="https://www.youtube.com/embed/aclHkTpjA4s" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    
+    <div class="video-container">
+        <div class="video-title">올바른 걷기 자세 배우기</div>
+        <div class="video-id">Video ID: V-1Yq8_1Hyk</div>
+        <div class="iframe-container">
+            <iframe src="https://www.youtube.com/embed/V-1Yq8_1Hyk" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    
+    <div class="video-container">
+        <div class="video-title">실내 걷기 운동 20분</div>
+        <div class="video-id">Video ID: W_8LjhN-wR0</div>
+        <div class="iframe-container">
+            <iframe src="https://www.youtube.com/embed/W_8LjhN-wR0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    
+    <div class="video-container">
+        <div class="video-title">일일 스트레칭 루틴 15분</div>
+        <div class="video-id">Video ID: qZkjG0cWmj4</div>
+        <div class="iframe-container">
+            <iframe src="https://www.youtube.com/embed/qZkjG0cWmj4" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    
+    <div class="video-container">
+        <div class="video-title">Rick Roll (테스트용 - 반드시 재생되어야 함)</div>
+        <div class="video-id">Video ID: dQw4w9WgXcQ</div>
+        <div class="iframe-container">
+            <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+        </div>
+    </div>
+    
+    <div class="video-container" style="background-color: #fff3cd;">
+        <div class="video-title" style="color: #856404;">문제 진단</div>
+        <p style="color: #856404;">
+            <strong>비디오가 보이지 않으면:</strong><br>
+            1. F12를 눌러 개발자 콘솔을 엽니다<br>
+            2. Console 탭에서 에러 메시지를 확인합니다<br>
+            3. Network 탭에서 iframe 요청 상태를 확인합니다<br>
+            4. 브라우저의 보안 설정을 확인합니다<br>
+        </p>
+    </div>
+</body>
+</html>
+"""
+
+# Save to file
+output_path = "C:\\Users\\504\\Desktop\\AI 스마트 케어메이트\\youtube_embed_test.html"
+with open(output_path, 'w', encoding='utf-8') as f:
+    f.write(html_content)
+
+print(f"[OK] HTML test file created: {output_path}")
+print(f"\n[INFO] Open this file in your browser to test YouTube iframe embedding")
+print(f"[INFO] File path: {output_path}")

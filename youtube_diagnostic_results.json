@@ -1,0 +1,769 @@
+{
+  "timestamp": "2026-11-27T14:37:23.614992",
+  "summary": {
+    "total": 26,
+    "accessible": 26,
+    "playable": 26,
+    "embeddable": 26
+  },
+  "categories": {
+    "스쿼트": {
+      "accessible": 4,
+      "playable": 4,
+      "embeddable": 4,
+      "total": 4,
+      "videos": [
+        {
+          "video_id": "zkjlJL-aADs",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=zkjlJL-aADs",
+          "embed_url": "https://www.youtube.com/embed/zkjlJL-aADs"
+        },
+        {
+          "video_id": "aClHKpqkqmQ",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=aClHKpqkqmQ",
+          "embed_url": "https://www.youtube.com/embed/aClHKpqkqmQ"
+        },
+        {
+          "video_id": "xNR3hpx2eQw",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=xNR3hpx2eQw",
+          "embed_url": "https://www.youtube.com/embed/xNR3hpx2eQw"
+        },
+        {
+          "video_id": "JAgBYcCauNI",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=JAgBYcCauNI",
+          "embed_url": "https://www.youtube.com/embed/JAgBYcCauNI"
+        }
+      ]
+    },
+    "걷기": {
+      "accessible": 3,
+      "playable": 3,
+      "embeddable": 3,
+      "total": 3,
+      "videos": [
+        {
+          "video_id": "7wAUmQVMFxY",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=7wAUmQVMFxY",
+          "embed_url": "https://www.youtube.com/embed/7wAUmQVMFxY"
+        },
+        {
+          "video_id": "oD6X0ysX0bA",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=oD6X0ysX0bA",
+          "embed_url": "https://www.youtube.com/embed/oD6X0ysX0bA"
+        },
+        {
+          "video_id": "yGh7Hxgk-70",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=yGh7Hxgk-70",
+          "embed_url": "https://www.youtube.com/embed/yGh7Hxgk-70"
+        }
+      ]
+    },
+    "산책": {
+      "accessible": 1,
+      "playable": 1,
+      "embeddable": 1,
+      "total": 1,
+      "videos": [
+        {
+          "video_id": "Zz_rXjVJqbU",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=Zz_rXjVJqbU",
+          "embed_url": "https://www.youtube.com/embed/Zz_rXjVJqbU"
+        }
+      ]
+    },
+    "스트레칭": {
+      "accessible": 3,
+      "playable": 3,
+      "embeddable": 3,
+      "total": 3,
+      "videos": [
+        {
+          "video_id": "l_7zw2swSnk",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=l_7zw2swSnk",
+          "embed_url": "https://www.youtube.com/embed/l_7zw2swSnk"
+        },
+        {
+          "video_id": "1LvjYbPqMfQ",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=1LvjYbPqMfQ",
+          "embed_url": "https://www.youtube.com/embed/1LvjYbPqMfQ"
+        },
+        {
+          "video_id": "g-5bLrGcHmo",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=g-5bLrGcHmo",
+          "embed_url": "https://www.youtube.com/embed/g-5bLrGcHmo"
+        }
+      ]
+    },
+    "팔 굽혀펴기": {
+      "accessible": 3,
+      "playable": 3,
+      "embeddable": 3,
+      "total": 3,
+      "videos": [
+        {
+          "video_id": "IODxDxX7oi4",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+          "embed_url": "https://www.youtube.com/embed/IODxDxX7oi4"
+        },
+        {
+          "video_id": "xsf6nxBg6Ng",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=xsf6nxBg6Ng",
+          "embed_url": "https://www.youtube.com/embed/xsf6nxBg6Ng"
+        },
+        {
+          "video_id": "GS4EZ1J2eGc",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=GS4EZ1J2eGc",
+          "embed_url": "https://www.youtube.com/embed/GS4EZ1J2eGc"
+        }
+      ]
+    },
+    "플랭크": {
+      "accessible": 3,
+      "playable": 3,
+      "embeddable": 3,
+      "total": 3,
+      "videos": [
+        {
+          "video_id": "XVNHlPmJcKg",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=XVNHlPmJcKg",
+          "embed_url": "https://www.youtube.com/embed/XVNHlPmJcKg"
+        },
+        {
+          "video_id": "jRLTdUVH6II",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=jRLTdUVH6II",
+          "embed_url": "https://www.youtube.com/embed/jRLTdUVH6II"
+        },
+        {
+          "video_id": "F9GfzDOhZvw",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=F9GfzDOhZvw",
+          "embed_url": "https://www.youtube.com/embed/F9GfzDOhZvw"
+        }
+      ]
+    },
+    "런지": {
+      "accessible": 2,
+      "playable": 2,
+      "embeddable": 2,
+      "total": 2,
+      "videos": [
+        {
+          "video_id": "QOVaHcNveoU",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=QOVaHcNveoU",
+          "embed_url": "https://www.youtube.com/embed/QOVaHcNveoU"
+        },
+        {
+          "video_id": "s40_cQnZxDw",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=s40_cQnZxDw",
+          "embed_url": "https://www.youtube.com/embed/s40_cQnZxDw"
+        }
+      ]
+    },
+    "홈트레이닝": {
+      "accessible": 3,
+      "playable": 3,
+      "embeddable": 3,
+      "total": 3,
+      "videos": [
+        {
+          "video_id": "tYzlqKqPLM4",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=tYzlqKqPLM4",
+          "embed_url": "https://www.youtube.com/embed/tYzlqKqPLM4"
+        },
+        {
+          "video_id": "ViKvQy_wqgg",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=ViKvQy_wqgg",
+          "embed_url": "https://www.youtube.com/embed/ViKvQy_wqgg"
+        },
+        {
+          "video_id": "ml4jVuY9NeE",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=ml4jVuY9NeE",
+          "embed_url": "https://www.youtube.com/embed/ml4jVuY9NeE"
+        }
+      ]
+    },
+    "요가": {
+      "accessible": 2,
+      "playable": 2,
+      "embeddable": 2,
+      "total": 2,
+      "videos": [
+        {
+          "video_id": "V3dHNAT78RE",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=V3dHNAT78RE",
+          "embed_url": "https://www.youtube.com/embed/V3dHNAT78RE"
+        },
+        {
+          "video_id": "MKXScXx0HqA",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=MKXScXx0HqA",
+          "embed_url": "https://www.youtube.com/embed/MKXScXx0HqA"
+        }
+      ]
+    },
+    "근력 운동": {
+      "accessible": 2,
+      "playable": 2,
+      "embeddable": 2,
+      "total": 2,
+      "videos": [
+        {
+          "video_id": "jM92E7YX5GA",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=jM92E7YX5GA",
+          "embed_url": "https://www.youtube.com/embed/jM92E7YX5GA"
+        },
+        {
+          "video_id": "jnHaH6i_0NQ",
+          "accessible": true,
+          "playable": true,
+          "embeddable": true,
+          "title": null,
+          "status_code": 200,
+          "errors": [],
+          "warnings": [],
+          "watch_url": "https://www.youtube.com/watch?v=jnHaH6i_0NQ",
+          "embed_url": "https://www.youtube.com/embed/jnHaH6i_0NQ"
+        }
+      ]
+    }
+  },
+  "details": [
+    {
+      "category": "스쿼트",
+      "index": 1,
+      "video_id": "zkjlJL-aADs",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=zkjlJL-aADs",
+      "embed_url": "https://www.youtube.com/embed/zkjlJL-aADs"
+    },
+    {
+      "category": "스쿼트",
+      "index": 2,
+      "video_id": "aClHKpqkqmQ",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=aClHKpqkqmQ",
+      "embed_url": "https://www.youtube.com/embed/aClHKpqkqmQ"
+    },
+    {
+      "category": "스쿼트",
+      "index": 3,
+      "video_id": "xNR3hpx2eQw",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=xNR3hpx2eQw",
+      "embed_url": "https://www.youtube.com/embed/xNR3hpx2eQw"
+    },
+    {
+      "category": "스쿼트",
+      "index": 4,
+      "video_id": "JAgBYcCauNI",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=JAgBYcCauNI",
+      "embed_url": "https://www.youtube.com/embed/JAgBYcCauNI"
+    },
+    {
+      "category": "걷기",
+      "index": 1,
+      "video_id": "7wAUmQVMFxY",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=7wAUmQVMFxY",
+      "embed_url": "https://www.youtube.com/embed/7wAUmQVMFxY"
+    },
+    {
+      "category": "걷기",
+      "index": 2,
+      "video_id": "oD6X0ysX0bA",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=oD6X0ysX0bA",
+      "embed_url": "https://www.youtube.com/embed/oD6X0ysX0bA"
+    },
+    {
+      "category": "걷기",
+      "index": 3,
+      "video_id": "yGh7Hxgk-70",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=yGh7Hxgk-70",
+      "embed_url": "https://www.youtube.com/embed/yGh7Hxgk-70"
+    },
+    {
+      "category": "산책",
+      "index": 1,
+      "video_id": "Zz_rXjVJqbU",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=Zz_rXjVJqbU",
+      "embed_url": "https://www.youtube.com/embed/Zz_rXjVJqbU"
+    },
+    {
+      "category": "스트레칭",
+      "index": 1,
+      "video_id": "l_7zw2swSnk",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=l_7zw2swSnk",
+      "embed_url": "https://www.youtube.com/embed/l_7zw2swSnk"
+    },
+    {
+      "category": "스트레칭",
+      "index": 2,
+      "video_id": "1LvjYbPqMfQ",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=1LvjYbPqMfQ",
+      "embed_url": "https://www.youtube.com/embed/1LvjYbPqMfQ"
+    },
+    {
+      "category": "스트레칭",
+      "index": 3,
+      "video_id": "g-5bLrGcHmo",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=g-5bLrGcHmo",
+      "embed_url": "https://www.youtube.com/embed/g-5bLrGcHmo"
+    },
+    {
+      "category": "팔 굽혀펴기",
+      "index": 1,
+      "video_id": "IODxDxX7oi4",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+      "embed_url": "https://www.youtube.com/embed/IODxDxX7oi4"
+    },
+    {
+      "category": "팔 굽혀펴기",
+      "index": 2,
+      "video_id": "xsf6nxBg6Ng",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=xsf6nxBg6Ng",
+      "embed_url": "https://www.youtube.com/embed/xsf6nxBg6Ng"
+    },
+    {
+      "category": "팔 굽혀펴기",
+      "index": 3,
+      "video_id": "GS4EZ1J2eGc",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=GS4EZ1J2eGc",
+      "embed_url": "https://www.youtube.com/embed/GS4EZ1J2eGc"
+    },
+    {
+      "category": "플랭크",
+      "index": 1,
+      "video_id": "XVNHlPmJcKg",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=XVNHlPmJcKg",
+      "embed_url": "https://www.youtube.com/embed/XVNHlPmJcKg"
+    },
+    {
+      "category": "플랭크",
+      "index": 2,
+      "video_id": "jRLTdUVH6II",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=jRLTdUVH6II",
+      "embed_url": "https://www.youtube.com/embed/jRLTdUVH6II"
+    },
+    {
+      "category": "플랭크",
+      "index": 3,
+      "video_id": "F9GfzDOhZvw",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=F9GfzDOhZvw",
+      "embed_url": "https://www.youtube.com/embed/F9GfzDOhZvw"
+    },
+    {
+      "category": "런지",
+      "index": 1,
+      "video_id": "QOVaHcNveoU",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=QOVaHcNveoU",
+      "embed_url": "https://www.youtube.com/embed/QOVaHcNveoU"
+    },
+    {
+      "category": "런지",
+      "index": 2,
+      "video_id": "s40_cQnZxDw",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=s40_cQnZxDw",
+      "embed_url": "https://www.youtube.com/embed/s40_cQnZxDw"
+    },
+    {
+      "category": "홈트레이닝",
+      "index": 1,
+      "video_id": "tYzlqKqPLM4",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=tYzlqKqPLM4",
+      "embed_url": "https://www.youtube.com/embed/tYzlqKqPLM4"
+    },
+    {
+      "category": "홈트레이닝",
+      "index": 2,
+      "video_id": "ViKvQy_wqgg",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=ViKvQy_wqgg",
+      "embed_url": "https://www.youtube.com/embed/ViKvQy_wqgg"
+    },
+    {
+      "category": "홈트레이닝",
+      "index": 3,
+      "video_id": "ml4jVuY9NeE",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=ml4jVuY9NeE",
+      "embed_url": "https://www.youtube.com/embed/ml4jVuY9NeE"
+    },
+    {
+      "category": "요가",
+      "index": 1,
+      "video_id": "V3dHNAT78RE",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=V3dHNAT78RE",
+      "embed_url": "https://www.youtube.com/embed/V3dHNAT78RE"
+    },
+    {
+      "category": "요가",
+      "index": 2,
+      "video_id": "MKXScXx0HqA",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=MKXScXx0HqA",
+      "embed_url": "https://www.youtube.com/embed/MKXScXx0HqA"
+    },
+    {
+      "category": "근력 운동",
+      "index": 1,
+      "video_id": "jM92E7YX5GA",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=jM92E7YX5GA",
+      "embed_url": "https://www.youtube.com/embed/jM92E7YX5GA"
+    },
+    {
+      "category": "근력 운동",
+      "index": 2,
+      "video_id": "jnHaH6i_0NQ",
+      "accessible": true,
+      "playable": true,
+      "embeddable": true,
+      "title": null,
+      "status_code": 200,
+      "errors": [],
+      "warnings": [],
+      "watch_url": "https://www.youtube.com/watch?v=jnHaH6i_0NQ",
+      "embed_url": "https://www.youtube.com/embed/jnHaH6i_0NQ"
+    }
+  ]
+}
